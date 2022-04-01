@@ -1,1 +1,1 @@
-# Housing-Prices-Competition-of-Machine-Learning-models
+# Housing-Prices-Machine-Learning-models
